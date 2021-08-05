@@ -1,0 +1,2 @@
+export const SET_PAGES_LIST = "SET_PAGES_LIST"
+export const SET_PAGE_DATA = "SET_PAGE_DATA"
